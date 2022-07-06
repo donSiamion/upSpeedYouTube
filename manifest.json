@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "YouTubeSpeedUp",
     "version": "1.0",
-    "description": "дефолтную скорость видео делает х2, в меню добавлетя скорости x2,х2.5,х3,x3.5,x4",
+    "description": "дефолтную скорость видео делает х2, под видео добавляются кнопки скорости x2,х2.5,х3,x3.5,x4",
     "content_scripts": [
         {
             "matches": [ "https://youtube.com/*", "https://www.youtube.com/*" ],
